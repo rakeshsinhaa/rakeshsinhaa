@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakesh Sinha</h1>
+<h1 align="center">Rakesh Sinha</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshsinhaa" alt="rakeshsinhaa" /></a> </p>
 
 - 📫 How to reach me **sinharakesh078@gmail.com**
